@@ -1,0 +1,39 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/senditholmes/frontend_mentor/tree/main/qr-code-component-main)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+### What I learned
+
+Linking stylesheets and fonts to css. How to apply basic styling to a simple container. Padding and margin tendencies.
+
+
+### Continued development
+
+I need to figure out best practices when working with flexbox, grid, and box-method.
